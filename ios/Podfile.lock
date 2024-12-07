@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - stories_for_flutter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - stories_for_flutter (from `.symlinks/plugins/stories_for_flutter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  stories_for_flutter:
+    :path: ".symlinks/plugins/stories_for_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  stories_for_flutter: 61c379ff8a3dcfdebbe2faffb5c8f4d62ff13994
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
